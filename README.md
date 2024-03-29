@@ -1,5 +1,5 @@
 # Proof of Developers Quick⚡Paper : Novel Blockchain Reward and ReStaking Mechanic
-### Authored by @DmikeyAnderson
+### Authored by [@DmikeyAnderson](https://twitter.com/dmikeyanderson)
 
 > a Quick⚡Paper is an easy to read, easy to digest white paper. let's change how lite papers are written, so they can be read quickly, and easily.
 
